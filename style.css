@@ -1,0 +1,36 @@
+.body {
+  font-family: Georgia, Times New Roman;
+  background-color: #585E4E;
+  margin-top: 10px;
+  color: #1E1E19;
+}
+#name {
+  font-size: 80px;
+}
+#adjectives {
+  font-size: 30px;
+}
+.row {
+  color: rgba(255,255,0,0.6);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left:50px;
+  padding-right: 30px;
+}
+article {
+  font-size: large;
+  background-color: #575954;
+  color: #E0FABC;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.btn{
+  background-color : rgba(202,211,33,1);
+  color: black;
+  font-size: 20px;
+}
+#7th_march{
+  color: #BDA928;
+  font-family: SolaimanLipi;
+}
+
